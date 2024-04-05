@@ -1,4 +1,5 @@
 .hg
+.hgsigs
 xcuserdata/
 *.hmap
 *.ipa
